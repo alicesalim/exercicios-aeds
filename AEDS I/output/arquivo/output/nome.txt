@@ -1,0 +1,5 @@
+Salario: 1
+Codigo: 123
+Nome: alice
+Email: alice@gmail
+Salario: 100
