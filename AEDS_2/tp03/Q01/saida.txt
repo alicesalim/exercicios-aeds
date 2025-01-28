@@ -1,0 +1,49 @@
+(R) 
+(R) 
+(R) 
+(R) 
+(R) 
+(R) 
+(R) 
+(R) 
+[0] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[1] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[2] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[3] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[4] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[5] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[6] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[7] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[8] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[9] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[10] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[11] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[12] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[13] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[14] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[15] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[16] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[17] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[18] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[19] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[20] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[21] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[22] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[23] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[24] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[25] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[26] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[27] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[28] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[29] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[30] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[31] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[32] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[33] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[34] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[35] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[36] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[37] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[38] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[39] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
+[40] [#0 -> :  - [] - [] - 0.0kg - 0.0m - 0% - false - 0 gen]Data não disponível
